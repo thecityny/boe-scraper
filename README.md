@@ -59,7 +59,7 @@ scrape-boe results --all https://web.enrboenyc.us
 If no URL is specified, URLs are read from stdin.
 
 ```
-node scrape-boe ids https://web.enrboenyc.us | jq -r '.url' | node scrape-boe results
+scrape-boe ids https://web.enrboenyc.us | jq -r '.url' | scrape-boe results
 ```
 
 ## Programmatic Usage
