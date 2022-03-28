@@ -1,0 +1,562 @@
+[
+  {
+    "office": "Democratic Mayor",
+    "id": "24306",
+    "url": "http://examples/unofficial-primary/CD24306AD0.html"
+  },
+  {
+    "office": "Democratic Public Advocate",
+    "id": "24408",
+    "url": "http://examples/unofficial-primary/CD24408AD0.html"
+  },
+  {
+    "office": "Democratic City Comptroller",
+    "id": "24314",
+    "url": "http://examples/unofficial-primary/CD24314AD0.html"
+  },
+  {
+    "office": "Democratic Borough President New York",
+    "id": "24307",
+    "url": "http://examples/unofficial-primary/CD24307AD0.html"
+  },
+  {
+    "office": "Democratic Borough President Bronx",
+    "id": "24339",
+    "url": "http://examples/unofficial-primary/CD24339AD0.html"
+  },
+  {
+    "office": "Democratic Borough President Kings",
+    "id": "24336",
+    "url": "http://examples/unofficial-primary/CD24336AD0.html"
+  },
+  {
+    "office": "Democratic Borough President Queens",
+    "id": "24415",
+    "url": "http://examples/unofficial-primary/CD24415AD0.html"
+  },
+  {
+    "office": "Democratic Borough President Richmond",
+    "id": "24458",
+    "url": "http://examples/unofficial-primary/CD24458AD0.html"
+  },
+  {
+    "office": "Democratic Surrogate",
+    "id": "24374",
+    "url": "http://examples/unofficial-primary/CD24374AD0.html"
+  },
+  {
+    "office": "Democratic Judge of the Civil Court - County Kings",
+    "id": "24373",
+    "url": "http://examples/unofficial-primary/CD24373AD0.html"
+  },
+  {
+    "office": "Democratic Judge of the Civil Court - County Queens",
+    "id": "24342",
+    "url": "http://examples/unofficial-primary/CD24342AD0.html"
+  },
+  {
+    "office": "Democratic District Attorney",
+    "id": "24315",
+    "url": "http://examples/unofficial-primary/CD24315AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 1st Council District",
+    "id": "24340",
+    "url": "http://examples/unofficial-primary/CD24340AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 2nd Council District",
+    "id": "24463",
+    "url": "http://examples/unofficial-primary/CD24463AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 3rd Council District",
+    "id": "24321",
+    "url": "http://examples/unofficial-primary/CD24321AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 5th Council District",
+    "id": "24332",
+    "url": "http://examples/unofficial-primary/CD24332AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 6th Council District",
+    "id": "24361",
+    "url": "http://examples/unofficial-primary/CD24361AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 7th Council District",
+    "id": "24318",
+    "url": "http://examples/unofficial-primary/CD24318AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 8th Council District",
+    "id": "24470",
+    "url": "http://examples/unofficial-primary/CD24470AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 9th Council District",
+    "id": "24347",
+    "url": "http://examples/unofficial-primary/CD24347AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 10th Council District",
+    "id": "24370",
+    "url": "http://examples/unofficial-primary/CD24370AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 11th Council District",
+    "id": "24329",
+    "url": "http://examples/unofficial-primary/CD24329AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 12th Council District",
+    "id": "24328",
+    "url": "http://examples/unofficial-primary/CD24328AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 13th Council District",
+    "id": "24341",
+    "url": "http://examples/unofficial-primary/CD24341AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 14th Council District",
+    "id": "24327",
+    "url": "http://examples/unofficial-primary/CD24327AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 15th Council District",
+    "id": "24357",
+    "url": "http://examples/unofficial-primary/CD24357AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 16th Council District",
+    "id": "24330",
+    "url": "http://examples/unofficial-primary/CD24330AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 17th Council District",
+    "id": "24481",
+    "url": "http://examples/unofficial-primary/CD24481AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 18th Council District",
+    "id": "24355",
+    "url": "http://examples/unofficial-primary/CD24355AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 19th Council District",
+    "id": "24350",
+    "url": "http://examples/unofficial-primary/CD24350AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 20th Council District",
+    "id": "24346",
+    "url": "http://examples/unofficial-primary/CD24346AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 21st Council District",
+    "id": "24358",
+    "url": "http://examples/unofficial-primary/CD24358AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 22nd Council District",
+    "id": "24349",
+    "url": "http://examples/unofficial-primary/CD24349AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 23rd Council District",
+    "id": "24351",
+    "url": "http://examples/unofficial-primary/CD24351AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 24th Council District",
+    "id": "24399",
+    "url": "http://examples/unofficial-primary/CD24399AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 25th Council District",
+    "id": "24310",
+    "url": "http://examples/unofficial-primary/CD24310AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 26th Council District",
+    "id": "24311",
+    "url": "http://examples/unofficial-primary/CD24311AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 27th Council District",
+    "id": "24312",
+    "url": "http://examples/unofficial-primary/CD24312AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 28th Council District",
+    "id": "24406",
+    "url": "http://examples/unofficial-primary/CD24406AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 29th Council District",
+    "id": "24324",
+    "url": "http://examples/unofficial-primary/CD24324AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 30th Council District",
+    "id": "24414",
+    "url": "http://examples/unofficial-primary/CD24414AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 31st Council District",
+    "id": "24462",
+    "url": "http://examples/unofficial-primary/CD24462AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 32nd Council District",
+    "id": "24320",
+    "url": "http://examples/unofficial-primary/CD24320AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 33rd Council District",
+    "id": "24309",
+    "url": "http://examples/unofficial-primary/CD24309AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 34th Council District",
+    "id": "24319",
+    "url": "http://examples/unofficial-primary/CD24319AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 35th Council District",
+    "id": "24335",
+    "url": "http://examples/unofficial-primary/CD24335AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 36th Council District",
+    "id": "24379",
+    "url": "http://examples/unofficial-primary/CD24379AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 37th Council District",
+    "id": "24389",
+    "url": "http://examples/unofficial-primary/CD24389AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 38th Council District",
+    "id": "24352",
+    "url": "http://examples/unofficial-primary/CD24352AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 39th Council District",
+    "id": "24353",
+    "url": "http://examples/unofficial-primary/CD24353AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 40th Council District",
+    "id": "24348",
+    "url": "http://examples/unofficial-primary/CD24348AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 41st Council District",
+    "id": "24424",
+    "url": "http://examples/unofficial-primary/CD24424AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 42nd Council District",
+    "id": "24323",
+    "url": "http://examples/unofficial-primary/CD24323AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 45th Council District",
+    "id": "24375",
+    "url": "http://examples/unofficial-primary/CD24375AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 46th Council District",
+    "id": "24338",
+    "url": "http://examples/unofficial-primary/CD24338AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 47th Council District",
+    "id": "24394",
+    "url": "http://examples/unofficial-primary/CD24394AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 48th Council District",
+    "id": "24337",
+    "url": "http://examples/unofficial-primary/CD24337AD0.html"
+  },
+  {
+    "office": "Democratic Member of the City Council 49th Council District",
+    "id": "24326",
+    "url": "http://examples/unofficial-primary/CD24326AD0.html"
+  },
+  {
+    "office": "Democratic Judge of the Civil Court - District 2nd Municipal Court District - New York",
+    "id": "24392",
+    "url": "http://examples/unofficial-primary/CD24392AD0.html"
+  },
+  {
+    "office": "Democratic Judge of the Civil Court - District 5th Municipal Court District - New York",
+    "id": "24388",
+    "url": "http://examples/unofficial-primary/CD24388AD0.html"
+  },
+  {
+    "office": "Democratic Judge of the Civil Court - District 2nd Municipal Court District - Bronx",
+    "id": "24331",
+    "url": "http://examples/unofficial-primary/CD24331AD0.html"
+  },
+  {
+    "office": "Democratic Judge of the Civil Court - District 2nd Municipal Court District - Kings",
+    "id": "24378",
+    "url": "http://examples/unofficial-primary/CD24378AD0.html"
+  },
+  {
+    "office": "Democratic Judge of the Civil Court - District 7th Municipal Court District - Kings",
+    "id": "24535",
+    "url": "http://examples/unofficial-primary/CD24535AD0.html"
+  },
+  {
+    "office": "Democratic Judge of the Civil Court - District 4th Municipal Court District - Queens",
+    "id": "24536",
+    "url": "http://examples/unofficial-primary/CD24536AD0.html"
+  },
+  {
+    "office": "Democratic Female District Leader Democratic Leadership District 61",
+    "id": "24461",
+    "url": "http://examples/unofficial-primary/CD24461AD0.html"
+  },
+  {
+    "office": "Democratic Female District Leader Democratic Leadership District 65 Part D",
+    "id": "24530",
+    "url": "http://examples/unofficial-primary/CD24530AD0.html"
+  },
+  {
+    "office": "Democratic Female District Leader Democratic Leadership District 68 Part B",
+    "id": "24502",
+    "url": "http://examples/unofficial-primary/CD24502AD0.html"
+  },
+  {
+    "office": "Democratic Female District Leader Democratic Leadership District 68 Part C",
+    "id": "24465",
+    "url": "http://examples/unofficial-primary/CD24465AD0.html"
+  },
+  {
+    "office": "Democratic Female District Leader Democratic Leadership District 69 Part A",
+    "id": "24386",
+    "url": "http://examples/unofficial-primary/CD24386AD0.html"
+  },
+  {
+    "office": "Democratic Female District Leader Democratic Leadership District 70 Part D",
+    "id": "24472",
+    "url": "http://examples/unofficial-primary/CD24472AD0.html"
+  },
+  {
+    "office": "Democratic Female District Leader Democratic Leadership District 72 Part A",
+    "id": "24409",
+    "url": "http://examples/unofficial-primary/CD24409AD0.html"
+  },
+  {
+    "office": "Democratic Female District Leader Democratic Leadership District 72 Part B",
+    "id": "24469",
+    "url": "http://examples/unofficial-primary/CD24469AD0.html"
+  },
+  {
+    "office": "Democratic Female District Leader Democratic Leadership District 76 Part A",
+    "id": "24322",
+    "url": "http://examples/unofficial-primary/CD24322AD0.html"
+  },
+  {
+    "office": "Democratic Male District Leader Democratic Leadership District 61",
+    "id": "24460",
+    "url": "http://examples/unofficial-primary/CD24460AD0.html"
+  },
+  {
+    "office": "Democratic Male District Leader Democratic Leadership District 68 Part B",
+    "id": "24471",
+    "url": "http://examples/unofficial-primary/CD24471AD0.html"
+  },
+  {
+    "office": "Democratic Male District Leader Democratic Leadership District 68 Part C",
+    "id": "24464",
+    "url": "http://examples/unofficial-primary/CD24464AD0.html"
+  },
+  {
+    "office": "Democratic Male District Leader Democratic Leadership District 68 Part D",
+    "id": "24371",
+    "url": "http://examples/unofficial-primary/CD24371AD0.html"
+  },
+  {
+    "office": "Democratic Male District Leader Democratic Leadership District 69 Part A",
+    "id": "24387",
+    "url": "http://examples/unofficial-primary/CD24387AD0.html"
+  },
+  {
+    "office": "Democratic Male District Leader Democratic Leadership District 70 Part D",
+    "id": "24431",
+    "url": "http://examples/unofficial-primary/CD24431AD0.html"
+  },
+  {
+    "office": "Democratic Male District Leader Democratic Leadership District 72 Part B",
+    "id": "24494",
+    "url": "http://examples/unofficial-primary/CD24494AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 33rd Assembly District",
+    "id": "24363",
+    "url": "http://examples/unofficial-primary/CD24363AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 40th Assembly District",
+    "id": "24362",
+    "url": "http://examples/unofficial-primary/CD24362AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 50th Assembly District",
+    "id": "24434",
+    "url": "http://examples/unofficial-primary/CD24434AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 58th Assembly District",
+    "id": "24380",
+    "url": "http://examples/unofficial-primary/CD24380AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 68th Assembly District",
+    "id": "24360",
+    "url": "http://examples/unofficial-primary/CD24360AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 69th Assembly District",
+    "id": "24403",
+    "url": "http://examples/unofficial-primary/CD24403AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 71st Assembly District",
+    "id": "24407",
+    "url": "http://examples/unofficial-primary/CD24407AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 72nd Assembly District",
+    "id": "24437",
+    "url": "http://examples/unofficial-primary/CD24437AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 77th Assembly District",
+    "id": "24368",
+    "url": "http://examples/unofficial-primary/CD24368AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 79th Assembly District",
+    "id": "24397",
+    "url": "http://examples/unofficial-primary/CD24397AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 80th Assembly District",
+    "id": "24345",
+    "url": "http://examples/unofficial-primary/CD24345AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 81st Assembly District",
+    "id": "24402",
+    "url": "http://examples/unofficial-primary/CD24402AD0.html"
+  },
+  {
+    "office": "Democratic Delegate to Judicial Convention 82nd Assembly District",
+    "id": "24381",
+    "url": "http://examples/unofficial-primary/CD24381AD0.html"
+  },
+  {
+    "office": "Democratic Alternate Delegate to the Judicial Convention 58th Assembly District",
+    "id": "24382",
+    "url": "http://examples/unofficial-primary/CD24382AD0.html"
+  },
+  {
+    "office": "Democratic Alternate Delegate to the Judicial Convention 71st Assembly District",
+    "id": "24477",
+    "url": "http://examples/unofficial-primary/CD24477AD0.html"
+  },
+  {
+    "office": "Democratic Alternate Delegate to the Judicial Convention 72nd Assembly District",
+    "id": "24439",
+    "url": "http://examples/unofficial-primary/CD24439AD0.html"
+  },
+  {
+    "office": "Republican Mayor",
+    "id": "24425",
+    "url": "http://examples/unofficial-primary/CD24425AD0.html"
+  },
+  {
+    "office": "Republican Borough President",
+    "id": "24496",
+    "url": "http://examples/unofficial-primary/CD24496AD0.html"
+  },
+  {
+    "office": "Republican Member of the City Council 15th Council District",
+    "id": "24524",
+    "url": "http://examples/unofficial-primary/CD24524AD0.html"
+  },
+  {
+    "office": "Republican Member of the City Council 19th Council District",
+    "id": "24410",
+    "url": "http://examples/unofficial-primary/CD24410AD0.html"
+  },
+  {
+    "office": "Republican Member of the City Council 23rd Council District",
+    "id": "24546",
+    "url": "http://examples/unofficial-primary/CD24546AD0.html"
+  },
+  {
+    "office": "Republican Member of the City Council 24th Council District",
+    "id": "24554",
+    "url": "http://examples/unofficial-primary/CD24554AD0.html"
+  },
+  {
+    "office": "Republican Member of the City Council 32nd Council District",
+    "id": "24550",
+    "url": "http://examples/unofficial-primary/CD24550AD0.html"
+  },
+  {
+    "office": "Republican Member of the City Council 50th Council District",
+    "id": "24367",
+    "url": "http://examples/unofficial-primary/CD24367AD0.html"
+  },
+  {
+    "office": "Republican Female State Committee 25th Assembly District",
+    "id": "24560",
+    "url": "http://examples/unofficial-primary/CD24560AD0.html"
+  },
+  {
+    "office": "Republican Female State Committee 33rd Assembly District",
+    "id": "24558",
+    "url": "http://examples/unofficial-primary/CD24558AD0.html"
+  },
+  {
+    "office": "Republican Female State Committee 46th Assembly District",
+    "id": "24531",
+    "url": "http://examples/unofficial-primary/CD24531AD0.html"
+  },
+  {
+    "office": "Republican Male State Committee 25th Assembly District",
+    "id": "24561",
+    "url": "http://examples/unofficial-primary/CD24561AD0.html"
+  },
+  {
+    "office": "Republican Male State Committee 33rd Assembly District",
+    "id": "24559",
+    "url": "http://examples/unofficial-primary/CD24559AD0.html"
+  },
+  {
+    "office": "Republican Male State Committee 46th Assembly District",
+    "id": "24503",
+    "url": "http://examples/unofficial-primary/CD24503AD0.html"
+  },
+  {
+    "office": "Republican Male State Committee 51st Assembly District",
+    "id": "24537",
+    "url": "http://examples/unofficial-primary/CD24537AD0.html"
+  },
+  {
+    "office": "Conservative Member of the City Council",
+    "id": "24500",
+    "url": "http://examples/unofficial-primary/CD24500AD0.html"
+  }
+]

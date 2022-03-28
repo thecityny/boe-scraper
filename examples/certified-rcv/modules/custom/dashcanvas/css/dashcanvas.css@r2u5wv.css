@@ -1,0 +1,245 @@
+body.role--authenticated,
+body.user-logged-in {
+  padding-top: 31px;
+}
+
+body.role--administrator nav.menu--account {
+  left: auto;
+  right: 0;
+  width: 660px;
+}
+
+.page-admin-dashboard .region-content .block-system-branding-block {
+  background: #012662;
+  text-align: center;
+  margin-bottom: 2em;
+  padding: 6px;
+}
+
+.page-admin-dashboard .messages--error {
+  display: none;
+}
+
+#block-dashboard-block,
+#block-dashboardblock {
+  float: left;
+  width: 80%;
+  margin: 1em 0;
+}
+
+.page-admin-dashboard .region-content .block-menu {
+  width: 20%;
+  float: left;
+  margin: 1em 0;
+}
+
+.page-admin-dashboard .column-1 {
+  width: 32%;
+  margin: 0 1% 1% 0;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-color: #EFEFEF;
+  background-position: 10px calc(100% - 10px);
+  padding: 1em;
+  box-sizing: border-box;
+  font-size: 1.6em;
+  text-align: right;
+  float: left;
+  position: relative;
+  min-width: 340px;
+}
+
+.page-admin-dashboard .column-1 a {
+  text-decoration: none;
+}
+
+.page-admin-dashboard .column-1 div {
+  background: #E6E6E6;
+  padding: 10px;
+}
+
+.page-admin-dashboard .column-1 ul {
+  list-style-type: none;
+  font-size: 0.7em;
+  margin: 1em 0;
+}
+
+.page-admin-dashboard .column-1 ul li {
+  margin-bottom: 10px;
+}
+
+.add-button {
+  float: right;
+  display: inline-block;
+  background: #012662;
+  padding: 10px 1em;
+  color: #fff;
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.add-button:hover {
+  text-decoration: none;
+  background: #0E387B;
+}
+
+.add-button span {
+  text-transform: uppercase;
+}
+
+.add-button[href="/node/add/all"] {
+  display: none;
+}
+
+.page-admin-dashboard .column-1 .add-new:before {
+  content: "+";
+  margin-right: 10px;
+  color: #EFEFEF;
+  width: 10px;
+  height: 10px;
+  background: #AFAFAF;
+  padding: 0 3px;
+  display: inline;
+  text-align: center;
+}
+
+.page-admin-dashboard .wrapper-pages {
+  background-image: url(../images/paperplane.png);
+}
+
+.page-admin-dashboard .wrapper-news {
+  background-image: url(../images/newspaper.png);
+}
+
+.page-admin-dashboard .wrapper-elections {
+  background-image: url(../images/box.png);
+}
+
+.page-admin-dashboard .wrapper-users {
+  background-image: url(../images/people.png);
+}
+
+.page-admin-dashboard .wrapper-files {
+  background-image: url(../images/files.png);
+}
+
+.page-admin-dashboard .wrapper-taxonomies {
+  background-image: url(../images/tags.png);
+}
+
+.page-admin-dashboard .wrapper-blocks {
+  background-image: url(../images/homepage.png);
+}
+
+.page-admin-dashboard .wrapper-sitemap {
+  background-image: url(../images/flow_chart.png);
+}
+
+.page-admin-dashboard .wrapper-settings {
+  background-image: url(../images/cogs.png);
+}
+
+.page-admin-dashboard .wrapper-webforms {
+  background-image: url(../images/webforms.png);
+}
+
+.page-admin-dashboard .wrapper-credits {
+  clear: both;
+}
+
+.page-admin-dashboard .region-content .block h2 {
+  font-weight: normal;
+  margin: 0;
+  font-size: 1.385em;
+  background: #EFEFEF;
+  padding: 0.5em;
+}
+
+.page-admin-dashboard .region-content ul.menu {
+  list-style: none outside;
+  margin-left: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.page-admin-dashboard .region-content ul.menu .menu {
+  margin-left: 1em;
+}
+
+.page-admin-dashboard .region-content .menu-item {
+  margin: 0 0 2px 0;
+  list-style-type: none;
+}
+
+.page-admin-dashboard .region-content .menu-item a {
+  display: block;
+  text-decoration: none;
+  background: #FFEBCD;
+  padding: 0.5em;
+}
+
+.page-admin-dashboard .region-content .menu-item:nth-child(odd) a {
+  background: #F7E1C0;
+}
+
+.page-admin-dashboard .region-content .menu-item a:hover {
+  background: #012662 !important;
+  color: #fff !important;
+}
+
+.page-admin-dashboard .region-content .menu-item--expanded {
+  list-style: none;
+}
+
+.page-admin-dashboard .region-content .menu-item--expanded > a {
+  border-left: 4px solid #ddd;
+}
+
+/* go top button */
+#back-top {
+  position: fixed;
+  bottom: 0;
+  right: 20px;
+}
+
+.page-admin-dashboard-files .tabs.primary {
+  display: none;
+}
+
+/* Custom admin menu */
+nav.menu--account {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "DejaVu Sans", "Lucida Sans", sans-serif;
+  position: fixed;
+  top: 0;
+  z-index: 900;
+  background: #737373;
+  width: 100%;
+  left: 0;
+  letter-spacing: 0;
+}
+
+nav.menu--account .menu-item {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0;
+  background: #fff;
+  padding: 0 5px;
+}
+
+nav.menu--account ul {
+  margin: 6px;
+}
+
+nav.menu--account .menu-item a {
+  text-decoration: none;
+  display: block;
+}
+
+/* CKeditor */
+.layout-node-form .form-item {
+  max-width: 800px;
+}
