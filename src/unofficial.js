@@ -45,8 +45,8 @@ async function* scrapeIds(url) {
 // Get URL, party and office for each race listed at the given race index
 async function getIndexUrls(url) {
   const {rows} = await getRows(url);
-  
-  return rows.map(row => {
+
+  return rows.reduce((adRows, row) => {
     // Extract cells from row markup
     const cells = Array.from(row.querySelectorAll("td"));
 
@@ -54,10 +54,16 @@ async function getIndexUrls(url) {
     const party = cells[3].innerHTML;
   
     const link = cells[6].querySelector("a");
-    const {href} = new URL(link.getAttribute("href"), url);
 
-    return {office, party, url: href}
-  });
+    // If it's a row without AD-level results, ignore
+    if (link) {
+      const {href} = new URL(link.getAttribute("href"), url);
+
+      return [...adRows, {office, party, url: href}];
+    }
+
+    return adRows;
+  }, []);
 }
 
 // Pull office and URL from the given summary page
