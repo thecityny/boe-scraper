@@ -59,6 +59,10 @@ A space-separated list of URLs can be passed in the same call to output results 
 ```
 scrape-boe results --all https://web.enrboenyc.us
 ```
+Save files as csv
+```
+scrape-boe results --all https://web.enrboenyc.us > -f 'csv' filename.csv
+```
 
 If no URL is specified, URLs are read from stdin.
 
