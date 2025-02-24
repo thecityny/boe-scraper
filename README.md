@@ -4,6 +4,10 @@ Scrape unofficial and certified election results from the NYC Board of Elections
 
 ## Installing
 
+```
+brew install node
+````
+
 To use the CLI directly
 ```
 npm install -g thecityny/boe-scraper
@@ -55,6 +59,10 @@ A space-separated list of URLs can be passed in the same call to output results 
 ```
 scrape-boe results --all https://web.enrboenyc.us
 ```
+Save files as csv
+```
+scrape-boe results --all https://web.enrboenyc.us > -f 'csv' filename.csv
+```
 
 If no URL is specified, URLs are read from stdin.
 
@@ -73,3 +81,24 @@ Each function accepts a URL and returns an async generator that yields results o
 Live election night results are usually posted to https://web.enrboenyc.us and remain available until the next election, or when certified results are published. It’s usually a good idea to download a copy of the pages using a tool like wget in case they become unavailable. You can find a copy of the unofficial results pages from the 2021 primary and general election in the examples folder.
 
 In 2021, first round results from ranked choice voting primaries were published on election night, followed a week later by the full RCV rounds. The unofficial RCV results replaced the election night results on https://web.enrboenyc.us, and were updated weekly as absentee ballots were counted. Examples of the unofficial and certified ranked choice results pages are also available in the examples folder.
+
+You can run the examples by running the code below in the examples directory. 
+
+```
+npx http-server
+```
+This will run a server on your machine locally and if you go the localhost printed on your terminal, you can see it building the website on your machine. 
+
+Then run the commands above on that URL. It will look like this http://127.0.0.1:8080/unofficial-general/. For example, if you want to scrape mayoral results, you can scrape all the results by running this code
+
+```
+scrape-boe results --all http://127.0.0.1:8080/unofficial-general/CD23376ADI0.html
+```
+
+## How do I save it in a file?
+
+Modify your code like this
+
+```
+scrape-boe results --all <PASTE URL HERE> -f 'csv' > filename.csv
+```
